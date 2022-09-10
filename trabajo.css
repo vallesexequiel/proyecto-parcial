@@ -23,12 +23,45 @@ ul li{
     text-align: center;
     font-weight: 100;
 }
+.h21 {
+    margin-bottom: 0%;
+}
+
+.h23{
+    margin-top: 0%;
+}
+.h24{
+    margin-bottom: 0%;
+    
+}
+.h25{
+    margin-top: 0%;
+    border: rgba(146, 146, 250, 0.411);
+    margin-bottom: 0%;
+}
+.h26{
+    margin-bottom: 0%;
+  
+}
+.h27{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: rgba(146, 146, 250, 0.411);
+}
 li {
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: 100;
     background-color: rgba(146, 146, 250, 0.411);
-    border: solid rgb(33, 64, 148);
+   margin-top: 0%;
    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
