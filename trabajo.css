@@ -15,6 +15,7 @@ h2{
     text-align: center;
     background-color: rgba(146, 146, 250, 0.411);
     border: solid rgb(33, 64, 148);
+    margin-bottom: 0%;
 }
 ul li{
     text-align: center;
@@ -22,6 +23,7 @@ ul li{
 .h2 b{
     text-align: center;
     font-weight: 100;
+    margin-bottom: 0%;
 }
 .h21 {
     margin-bottom: 0%;
